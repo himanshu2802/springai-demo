@@ -1,0 +1,134 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "John Smith",
+      "department": "Engineering",
+      "salary": 95000,
+      "address": {
+        "houseNo": "101",
+        "street": "Maple Street",
+        "city": "Tampa",
+        "zip": "33602",
+        "state": "FL"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Emily Johnson",
+      "department": "Marketing",
+      "salary": 72000,
+      "address": {
+        "houseNo": "202",
+        "street": "Oak Avenue",
+        "city": "Orlando",
+        "zip": "32801",
+        "state": "FL"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Michael Brown",
+      "department": "Finance",
+      "salary": 88000,
+      "address": {
+        "houseNo": "303",
+        "street": "Pine Road",
+        "city": "Miami",
+        "zip": "33101",
+        "state": "FL"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Sarah Davis",
+      "department": "HR",
+      "salary": 68000,
+      "address": {
+        "houseNo": "404",
+        "street": "Cedar Lane",
+        "city": "Jacksonville",
+        "zip": "32099",
+        "state": "FL"
+      }
+    },
+    {
+      "id": 5,
+      "name": "David Wilson",
+      "department": "Engineering",
+      "salary": 99000,
+      "address": {
+        "houseNo": "505",
+        "street": "Elm Street",
+        "city": "Dallas",
+        "zip": "75201",
+        "state": "TX"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Sophia Martinez",
+      "department": "Sales",
+      "salary": 75000,
+      "address": {
+        "houseNo": "606",
+        "street": "Birch Blvd",
+        "city": "Austin",
+        "zip": "73301",
+        "state": "TX"
+      }
+    },
+    {
+      "id": 7,
+      "name": "James Anderson",
+      "department": "Support",
+      "salary": 60000,
+      "address": {
+        "houseNo": "707",
+        "street": "Spruce Drive",
+        "city": "Atlanta",
+        "zip": "30301",
+        "state": "GA"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Olivia Thomas",
+      "department": "Product",
+      "salary": 91000,
+      "address": {
+        "houseNo": "808",
+        "street": "Willow Way",
+        "city": "Seattle",
+        "zip": "98101",
+        "state": "WA"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Daniel Taylor",
+      "department": "Engineering",
+      "salary": 105000,
+      "address": {
+        "houseNo": "909",
+        "street": "Aspen Court",
+        "city": "San Francisco",
+        "zip": "94101",
+        "state": "CA"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Ava Moore",
+      "department": "Design",
+      "salary": 83000,
+      "address": {
+        "houseNo": "1001",
+        "street": "Cherry Street",
+        "city": "New York",
+        "zip": "10001",
+        "state": "NY"
+      }
+    }
+  ]
+}
